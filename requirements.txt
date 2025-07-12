@@ -1,0 +1,3 @@
+pdfplumber
+gspread
+oauth2client
